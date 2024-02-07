@@ -7,7 +7,7 @@ function ToDoInput(){
       <div className="col-sm-4">
         <input type="Date" />
       </div>
-      <div className="col-sm-2">
+      <div className="col-sm-1">
         <button type="button" className="btn btn-success kg-button">
           ADD
         </button>
